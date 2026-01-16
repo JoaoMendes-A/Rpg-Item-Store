@@ -1,0 +1,14 @@
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\bin\Debug\net10.0\Loja.exe
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\bin\Debug\net10.0\Loja.deps.json
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\bin\Debug\net10.0\Loja.runtimeconfig.json
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\bin\Debug\net10.0\Loja.dll
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\bin\Debug\net10.0\Loja.pdb
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\Loja.AssemblyInfoInputs.cache
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\Loja.AssemblyInfo.cs
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\Loja.dll
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\refint\Loja.dll
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\Loja.pdb
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\Loja.genruntimeconfig.cache
+C:\Users\JoaoM\OneDrive\Área de Trabalho\C#\Projetos\Loja\obj\Debug\net10.0\ref\Loja.dll
