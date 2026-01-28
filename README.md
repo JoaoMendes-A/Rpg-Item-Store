@@ -1,15 +1,20 @@
-Loja de Itens em C#
+# Loja de Itens em C#
 
-Programa em C# que simula uma loja de itens em modo console, permitindo que um jogador visualize seus dados e compre itens conforme seu nível e crédito disponível.
+---
 
-Funcionalidades
+## Descrição do Projeto
 
-Criação de jogador com nome, nível e crédito
+Aplicação de console desenvolvida em C# que simula uma loja de itens para RPG.
+O sistema permite a criação de um jogador e a compra de itens, considerando
+restrições de nível e crédito disponível.
 
-Listagem de itens disponíveis na loja
+---
 
-Compra de itens com verificação de saldo e nível
+## Funcionalidades
 
-Atualização do crédito após a compra
-
-Interação via terminal
+- Criação de jogador com nome, nível e crédito
+- Listagem de itens disponíveis na loja
+- Compra de itens com verificação de nível mínimo
+- Validação de crédito disponível para compra
+- Atualização automática do crédito após a compra
+- Interação completa via terminal
